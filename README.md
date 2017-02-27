@@ -39,29 +39,13 @@ References:
 2. Schiphorst Preuper HR, Geertzen JH, van Wijhe M, Boonstra AM, Molmans BH, Dijkstra PU, Reneman MF. Do analgesics improve functioning in patients with chronic low back pain? An explorative triple-blinded RCT. Eur Spine J. 2014 Apr;23(4):800-6. doi: 10.1007/s00586-014-3229-7. PMID:  [24526247](http://pubmed.gov/24526247)
 
 #### Trial(s) included in the review above
-1. 1: Uberall MA, Mueller-Schwefe GH, Terhaag B. Efficacy and safety of flupirtine
-modified release for the management of moderate to severe chronic low back pain: 
-results of SUPREME, a prospective randomized, double-blind, placebo- and
-active-controlled parallel-group phase IV study. Curr Med Res Opin. 2012
-Oct;28(10):1617-34. doi: 10.1185/03007995.2012.726216. PMID: [22970658](http://pubmed.gov/22970658).
-
-2: Vorsanger GJ, Xiang J, Gana TJ, Pascual ML, Fleming RR. Extended-release
-tramadol (tramadol ER) in the treatment of chronic low back pain. J Opioid Manag.
-2008 Mar-Apr;4(2):87-97. PMID: [18557165](http://pubmed.gov/18557165).
-
-3: Peloso PM, Fortin L, Beaulieu A, Kamin M, Rosenthal N; Protocol TRP-CAN-1
-Study Group.. Analgesic efficacy and safety of tramadol/ acetaminophen
-combination tablets (Ultracet) in treatment of chronic low back pain: a
-multicenter, outpatient, randomized, double blind, placebo controlled trial. J
-Rheumatol. 2004 Dec;31(12):2454-63. PMID: [15570651](http://pubmed.gov/15570651).
-
-4: Ruoff GE, Rosenthal N, Jordan D, Karim R, Kamin M; Protocol CAPSS-112 Study
-Group.. Tramadol/acetaminophen combination tablets for the treatment of chronic
-lower back pain: a multicenter, randomized, double-blind, placebo-controlled
+1. Uberall MA, Mueller-Schwefe GH, Terhaag B. Efficacy and safety of flupirtine modified release for the management of moderate to severe chronic low back pain: results of SUPREME, a prospective randomized, double-blind, placebo- and active-controlled parallel-group phase IV study. Curr Med Res Opin. 2012 Oct;28(10):1617-34. doi: 10.1185/03007995.2012.726216. PMID: [22970658](http://pubmed.gov/22970658).
+2. Vorsanger GJ, Xiang J, Gana TJ, Pascual ML, Fleming RR. Extended-release tramadol (tramadol ER) in the treatment of chronic low back pain. J Opioid Manag. 2008 Mar-Apr;4(2):87-97. PMID: [18557165](http://pubmed.gov/18557165).
+3. Peloso PM, Fortin L, Beaulieu A, Kamin M, Rosenthal N; Protocol TRP-CAN-1
+Study Group.. Analgesic efficacy and safety of tramadol/ acetaminophen combination tablets (Ultracet) in treatment of chronic low back pain: a multicenter, outpatient, randomized, double blind, placebo controlled trial. J Rheumatol. 2004 Dec;31(12):2454-63. PMID: [15570651](http://pubmed.gov/15570651).
+4. Ruoff GE, Rosenthal N, Jordan D, Karim R, Kamin M; Protocol CAPSS-112 Study Group.. Tramadol/acetaminophen combination tablets for the treatment of chronic lower back pain: a multicenter, randomized, double-blind, placebo-controlled
 outpatient study. Clin Ther. 2003 Apr;25(4):1123-41. PMID: [12809961](http://pubmed.gov/12809961).
-
-5: Schnitzer TJ, Gray WL, Paster RZ, Kamin M. Efficacy of tramadol in treatment
-of chronic low back pain. J Rheumatol. 2000 Mar;27(3):772-8. PMID: [10743823](http://pubmed.gov/10743823).
+5. Schnitzer TJ, Gray WL, Paster RZ, Kamin M. Efficacy of tramadol in treatment of chronic low back pain. J Rheumatol. 2000 Mar;27(3):772-8. PMID: [10743823](http://pubmed.gov/10743823).
 
 ####Trials excluded - selected list of important trials
 
@@ -73,4 +57,3 @@ This repository is cited by:
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
 [Issues and comments](../../issues?q=is%3Aboth+is%3Aissue)
-
