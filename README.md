@@ -1,4 +1,4 @@
-Template: a data-only living systematic review
+Back pain (chronic) treatment with tramadol
 ============================================
 A data-only living systematic review
 
@@ -19,25 +19,49 @@ This repository is a limited review and contains outcomes data only without PICO
 * [Reconciliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconciliation-tables) (not available)
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
-![Principle results](https://github.com/openMetaAnalysis/template-for-data-only-review-of-interventions/blob/master/forest-plots/Outcome-Primary.png "Principle results")
+![Principle results](https://github.com/openMetaAnalysis/back-pain-chronic-treatment-with-tramadol
+/blob/master/forest-plots/Outcome-Primary.png "Principle results")
 
 The meta-regression for the primary outcomes are below. Additional [meta-regressions](../../tree/master/metaregression) of secondary analyses may be available. 
-![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/template-for-data-only-review-of-interventions/master/metaregression/Outcome-Primary.png "Principle results for benefit]")
+![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/back-pain-chronic-treatment-with-tramadol
+/master/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 References:
 ----------------------------------
 
 ### Systematic review(s)
 ####Most recent review at time of last revision of this repository
-1. Ammendolia C, Stuber KJ, Rok E, Rampersaud R, Kennedy CA, Pennick V, Steenstra IA, de Bruin LK, Furlan AD. Nonoperative treatment for lumbar spinal stenosis with neurogenic claudication. Cochrane Database Syst Rev. 2013 Aug 30;8:CD010712. doi: [10.1002/14651858.CD010712](http://dx.doi.org/10.1002/14651858.CD010712). PMID: [23996271](http://pubmed.gov/23996271).
+1. Chaparro LE, Furlan AD, Deshpande A, Mailis-Gagnon A, Atlas S, Turk DC. Opioids compared to placebo or other treatments for chronic low-back pain. Cochrane Database Syst Rev. 2013 Aug 27;(8):CD004959. doi: [10.1002/14651858.CD004959.pub4](http://dx.doi.org/10.1002/14651858.CD004959.pub4). PMID: [23983011](http://pubmed.gov/23983011)
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-1. Friedly JL, Comstock BA, Turner JA, Heagerty PJ, Deyo RA, Sullivan SD, Bauer Z, Bresnahan BW, Avins AL, Nedeljkovic SS, Nerenz DR, Standaert C, Kessler L, Akuthota V, Annaswamy T, Chen A, Diehn F, Firtch W, Gerges FJ, Gilligan C,
-Goldberg H, Kennedy DJ, Mandel S, Tyburski M, Sanders W, Sibell D, Smuck M, Wasan A, Won L, Jarvik JG. A randomized trial of epidural glucocorticoid injections for spinal stenosis. N Engl J Med. 2014 Jul 3;371(1):11-21. doi: [10.1056/NEJMoa1313265](http://dx.doi.org/10.1056/NEJMoa1313265). PMID: [24988555](http://pubmed.gov/24988555).
+1. Lee JH, Lee CS; Ultracet ER Study Group.. A randomized, double-blind, placebo-controlled, parallel-group study to evaluate the efficacy and safety of the extended-release tramadol hydrochloride/acetaminophen fixed-dose combination tablet for the treatment of chronic low back pain. Clin Ther. 2013 Nov;35(11):1830-40. doi: 10.1016/j.clinthera.2013.09.017. PMID: [24183364](http://pubmed.gov/24183364).
+2. Schiphorst Preuper HR, Geertzen JH, van Wijhe M, Boonstra AM, Molmans BH, Dijkstra PU, Reneman MF. Do analgesics improve functioning in patients with chronic low back pain? An explorative triple-blinded RCT. Eur Spine J. 2014 Apr;23(4):800-6. doi: 10.1007/s00586-014-3229-7. PMID:  [24526247](http://pubmed.gov/24526247)
 
 #### Trial(s) included in the review above
-1. Fukusaki M, Kobayashi I, Hara T, Sumikawa K. Symptoms of spinal stenosis do not improve after epidural steroid injection. Clin J Pain. 1998 Jun;14(2):148-51. PMID:[9647457](http://pubmed.gov/9647457).
+1. 1: Uberall MA, Mueller-Schwefe GH, Terhaag B. Efficacy and safety of flupirtine
+modified release for the management of moderate to severe chronic low back pain: 
+results of SUPREME, a prospective randomized, double-blind, placebo- and
+active-controlled parallel-group phase IV study. Curr Med Res Opin. 2012
+Oct;28(10):1617-34. doi: 10.1185/03007995.2012.726216. PMID: [22970658](http://pubmed.gov/22970658).
+
+2: Vorsanger GJ, Xiang J, Gana TJ, Pascual ML, Fleming RR. Extended-release
+tramadol (tramadol ER) in the treatment of chronic low back pain. J Opioid Manag.
+2008 Mar-Apr;4(2):87-97. PMID: [18557165](http://pubmed.gov/18557165).
+
+3: Peloso PM, Fortin L, Beaulieu A, Kamin M, Rosenthal N; Protocol TRP-CAN-1
+Study Group.. Analgesic efficacy and safety of tramadol/ acetaminophen
+combination tablets (Ultracet) in treatment of chronic low back pain: a
+multicenter, outpatient, randomized, double blind, placebo controlled trial. J
+Rheumatol. 2004 Dec;31(12):2454-63. PMID: [15570651](http://pubmed.gov/15570651).
+
+4: Ruoff GE, Rosenthal N, Jordan D, Karim R, Kamin M; Protocol CAPSS-112 Study
+Group.. Tramadol/acetaminophen combination tablets for the treatment of chronic
+lower back pain: a multicenter, randomized, double-blind, placebo-controlled
+outpatient study. Clin Ther. 2003 Apr;25(4):1123-41. PMID: [12809961](http://pubmed.gov/12809961).
+
+5: Schnitzer TJ, Gray WL, Paster RZ, Kamin M. Efficacy of tramadol in treatment
+of chronic low back pain. J Rheumatol. 2000 Mar;27(3):772-8. PMID: [10743823](http://pubmed.gov/10743823).
 
 ####Trials excluded - selected list of important trials
 
