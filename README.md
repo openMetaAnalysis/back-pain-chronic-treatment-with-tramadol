@@ -2,7 +2,7 @@ Back pain (chronic) treatment with tramadol
 ============================================
 A data-only living systematic review
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is or is not* effective. Heterogeneity of results as measured by I2 was '[moderate](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at XX%. This review updates the previously published meta-analysis.(1)
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective among registered, randomized, controlled trials. Heterogeneity of results as measured by I2 was '[considerable](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 75% or more. This review updates the previously published meta-analysis.(1)
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 
@@ -53,7 +53,7 @@ outpatient study. Clin Ther. 2003 Apr;25(4):1123-41. PMID: [12809961](http://pub
 ####Cited by
 This repository is cited by:
 
-1. WikiDoc contributors. Spinal stenosis medical therapy. WikiDoc. Nov 9, 2014. Available at: http://www.wikidoc.org/index.php/This_topic. Accessed November 9, 2014. 
+1. WikiDoc contributors. Back pain medical therapy. WikiDoc. Feb 27, 2017. Available at: http://www.wikidoc.org/index.php/Back_pain_medical_therapy. Accessed February 27, 2017. 
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
