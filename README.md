@@ -12,18 +12,13 @@ This repository is a limited review and contains outcomes data only without PICO
 * [Evidence search](evidence-search.md) for this review
 
 **Results:** Details of the studies included are in the:
-* [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md) (not available)
+* [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md)
 * [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md) (not available)
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
-* [Meta-regressions](../../tree/master/metaregression) ([source data](../../tree/master/data))
 * [Reconciliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconciliation-tables) (not available)
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 ![Principle results](https://github.com/openMetaAnalysis/back-pain-chronic-treatment-with-tramadol/blob/master/forest-plots/Outcome-Primary.png "Principle results")
-
-The meta-regression for the primary outcomes are below. Additional [meta-regressions](../../tree/master/metaregression) of secondary analyses may be available. 
-![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/back-pain-chronic-treatment-with-tramadol
-/master/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 References:
 ----------------------------------
