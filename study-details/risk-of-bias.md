@@ -1,7 +1,5 @@
 #Risk of bias table
 
-*This template contains below tables for both diagnostic tests assessments and randomized controlled trials. Delete the table that is not needed after importing the files for the review template.
-
 ##Randomized controlled trials
 Based on [Cochrane Handbook](http://handbook.cochrane.org/chapter_8/table_8_5_d_criteria_for_judging_risk_of_bias_in_the_risk_of.htm). Modifications are:
 * Selective reporting bias is high risk if trial protocol is not registered.
