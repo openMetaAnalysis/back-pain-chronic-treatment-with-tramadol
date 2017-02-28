@@ -1,5 +1,4 @@
 #Evidence search
-(under development
 ##Inclusion criteria
 * Randomized trials of chronic low back pain that compare tramadol to placebo.
 
