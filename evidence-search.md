@@ -9,6 +9,7 @@
 ##PubMed
 ###Boolean term searching
 surprise\* AND question AND (mortality OR death OR died)
+* Retrieves x articles in hand (x% sensitivity)
 * 25 articles (search results reviewed 7/17/2016)
 
 ###Vector searching ('Related citations' search)
