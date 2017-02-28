@@ -36,8 +36,6 @@ References:
 #### New trial(s) *not* included in the most recent review above
 1. Lee JH, Lee CS; Ultracet ER Study Group.. A randomized, double-blind, placebo-controlled, parallel-group study to evaluate the efficacy and safety of the extended-release tramadol hydrochloride/acetaminophen fixed-dose combination tablet for the treatment of chronic low back pain. Clin Ther. 2013 Nov;35(11):1830-40. doi: 10.1016/j.clinthera.2013.09.017. PMID: [24183364](http://pubmed.gov/24183364).
 2. Schiphorst Preuper HR, Geertzen JH, van Wijhe M, Boonstra AM, Molmans BH, Dijkstra PU, Reneman MF. Do analgesics improve functioning in patients with chronic low back pain? An explorative triple-blinded RCT. Eur Spine J. 2014 Apr;23(4):800-6. doi: 10.1007/s00586-014-3229-7. PMID: [24526247](http://pubmed.gov/24526247)
-3. Tetsunaga T, Tetsunaga T, Tanaka M, Ozaki T. Efficacy of tramadol-acetaminophen tablets in low back pain patients with depression. J Orthop Sci. 2015 Mar;20(2):281-6. doi: 10.1007/s00776-014-0674-4. PMID: [25644033](http://pubmed.gov/25644033)
-4. O'Donnell JB, Ekman EF, Spalding WM, Bhadra P, McCabe D, Berger MF. The effectiveness of a weak opioid medication versus a cyclo-oxygenase-2 (COX-2) selective non-steroidal anti-inflammatory drug in treating flare-up of chronic low-back pain: results from two randomized, double-blind, 6-week studies. J Int Med Res. 2009 Nov-Dec;37(6):1789-802. PubMed PMID: [20146877](http://pubmed.gov/20146877)
 
 #### Trial(s) included in the review above
 1. Uberall MA, Mueller-Schwefe GH, Terhaag B. Efficacy and safety of flupirtine modified release for the management of moderate to severe chronic low back pain: results of SUPREME, a prospective randomized, double-blind, placebo- and active-controlled parallel-group phase IV study. Curr Med Res Opin. 2012 Oct;28(10):1617-34. doi: 10.1185/03007995.2012.726216. PMID: [22970658](http://pubmed.gov/22970658).
@@ -49,6 +47,8 @@ outpatient study. Clin Ther. 2003 Apr;25(4):1123-41. PMID: [12809961](http://pub
 5. Schnitzer TJ, Gray WL, Paster RZ, Kamin M. Efficacy of tramadol in treatment of chronic low back pain. J Rheumatol. 2000 Mar;27(3):772-8. PMID: [10743823](http://pubmed.gov/10743823).
 
 ####Trials excluded - selected list of important trials
+1. Tetsunaga T, Tetsunaga T, Tanaka M, Ozaki T. Efficacy of tramadol-acetaminophen tablets in low back pain patients with depression. J Orthop Sci. 2015 Mar;20(2):281-6. doi: 10.1007/s00776-014-0674-4. PMID: [25644033](http://pubmed.gov/25644033) *Excluded as used active comparator rather than placebo*
+2. O'Donnell JB, Ekman EF, Spalding WM, Bhadra P, McCabe D, Berger MF. The effectiveness of a weak opioid medication versus a cyclo-oxygenase-2 (COX-2) selective non-steroidal anti-inflammatory drug in treating flare-up of chronic low-back pain: results from two randomized, double-blind, 6-week studies. J Int Med Res. 2009 Nov-Dec;37(6):1789-802. PubMed PMID: [20146877](http://pubmed.gov/20146877) *Excluded as used active comparator rather than placebo*
 
 ####Cited by
 This repository is cited by:
