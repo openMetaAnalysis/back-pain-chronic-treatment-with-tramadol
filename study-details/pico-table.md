@@ -2,6 +2,10 @@
 
 Study        | PMID                                    |Patients/population/problem|Intervention|Comparison|Outcome|
 ------------ | --------------------------------------|---------------------------|------------|----------|-------|
-| Richard    |[25572383](http://pubmed.gov/25572383) |Adults with mean arterial pressure < 65 mm Hg before(?) fluids | Protocol based on PICCO | Usual care | Mortality at 28 days|
-| Kuan       |[26475246](http://pubmed.gov/26475246) |Adults with lactate level >= 3 mmol/L                          | Protocol based on NICOM | Usual care |Mortality at 28 days|
-| ProCESS    |[24635773](http://pubmed.gov/24635773) |Adults with lactate level >= 5 mmol/L or systolic pressure < 90 mm Hg after 1000 ml fluid challenge| Protocol based on shock index |Usual care|Mortality at 60 days|
+| Peloso    |[15570651](http://pubmed.gov/15570651) |Adults chronic back pain | Protocol based on PICCO | Usual care | Mortality at 28 days|
+| Ruoff  (Protocol CAPSS-112 Study Group)|[12809961](http://pubmed.gov/12809961) |Adults chronic back pain                          | Protocol based on NICOM | Usual care |Mortality at 28 days|
+| Schnitzer    |[10743823](http://pubmed.gov/10743823) |Adults chronic back pain| Protocol based on shock index |Usual care|Mortality at 60 days|
+| Schnitzer    |[22970658](http://pubmed.gov/22970658) |Adults chronic back pain| Protocol based on shock index |Usual care|Mortality at 60 days|
+| Vorsanger    |[18557165](http://pubmed.gov/18557165) |Adults chronic back pain| Protocol based on shock index |Usual care|Mortality at 60 days|
+| Lee (Ultracet ER Study Group)    |[24183364](http://pubmed.gov/24183364) |Adults chronic back pain| Protocol based on shock index |Usual care|Mortality at 60 days|
+| Schiphorst   |[24526247](http://pubmed.gov/24526247) |Adults chronic back pain| Protocol based on shock index |Usual care|Mortality at 60 days|
