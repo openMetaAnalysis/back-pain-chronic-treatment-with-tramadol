@@ -15,7 +15,7 @@ Content is taken from  Chaparro et al. Cochrane Database Syst Rev. 2013 PMID: [2
 | Ruoff  (Protocol CAPSS-112 Study Group) |[12809961](http://pubmed.gov/12809961)|Low risk |Unclear risk |Low risk |Unclear risk |High risk|Unclear risk as trial not registered|Unclear risk|
 | Schnitzer    |[10743823](http://pubmed.gov/10743823)|Low risk |Unclear risk |Low risk |Unclear risk |High risk |Unclear risk as trial not registered|Low risk|
 | Uberall      |[22970658](http://pubmed.gov/22970658)|Low risk |Unclear risk |Unclear risk |Unclear risk |High risk |Low risk|Low risk|
-| Vorsanger    |[18557165](http://pubmed.gov/18557165)|Low risk |Unclear risk |Unclear risk |Unclear risk |High risk |Low risk|Low risk|
+| Vorsanger    |[18557165](http://pubmed.gov/18557165)|Low risk |Unclear risk |Unclear risk |Unclear risk |High risk |Unclear risk as trial not registered|Low risk|
 | Lee (Ultracet ER Study Group)|[24183364](http://pubmed.gov/24183364)|Low risk |Low risk |Low risk |Unclear risk |High risk |Low risk|Low risk|
 | Schiphorst   |[24526247](http://pubmed.gov/24526247)|Low risk |Low risk |Low risk |Unclear risk |High risk |Low risk|Low risk|
 
