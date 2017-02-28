@@ -7,6 +7,10 @@ Based on [Cochrane Handbook](http://handbook.cochrane.org/chapter_8/table_8_5_d_
 * Selective reporting bias is high risk if trial protocol is not registered.
 * Incomplete outcome data is unclear risk of Consort diagram is not provided.
 
+Content is taken from  Chaparro et al. Cochrane Database Syst Rev. 2013 PMID: [23983011](http://pubmed.gov/23983011) except:
+* Selective reporting bias as noted above
+* Newer studies
+
 |  Study        |  PMID | Selection bias:<br/><br/>Random sequence generation<br/>| <br/><br/><br/><br/>Allocation concealment|Performance bias:<br/>Blinding of participants and personnel|Detection bias:<br/><br/>Blinding of outcome assessment<br/>|Attrition bias:<br/><br/>Incomplete outcome data<br/>|Reporting bias:<br/><br/><br/>Selective reporting|Other biases:<br/><br/>E.g. imbalanced compliance , co-interventions, or other<br/>|
 | ------------- |--------------------------------------|:---------|:---------|:--------------|:------------|:----------|:----------|:----------|
 | Peloso       |[15570651](http://pubmed.gov/15570651)|Unclear risk |Unclear risk |Low risk |Unclear risk |High risk |Unclear risk as trial not registered|Low risk|
