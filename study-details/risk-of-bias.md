@@ -2,7 +2,7 @@
 
 ##Randomized controlled trials
 Based on [Cochrane Handbook](http://handbook.cochrane.org/chapter_8/table_8_5_d_criteria_for_judging_risk_of_bias_in_the_risk_of.htm). Modifications are:
-* Selective reporting bias is high risk if trial protocol is not registered.
+* Selective reporting bias is high risk if trial protocol is not registered.(PMID [26244868](https://pubmed.gov/26244868))
 * Incomplete outcome data is unclear risk of Consort diagram is not provided.
 
 Content is taken from  Chaparro et al. Cochrane Database Syst Rev. 2013 PMID: [23983011](http://pubmed.gov/23983011) except:
