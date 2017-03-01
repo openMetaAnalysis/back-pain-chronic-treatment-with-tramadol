@@ -13,9 +13,9 @@ Sounds the meta-analysis shows no benefit, this review does not include a GRADE 
 
 **Results:** Details of the studies included are in the:
 * [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md)
-* [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md) (not available)
+* [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md)
 * [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
-* [Reconciliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconciliation-tables) (not available)
+* [Reconciliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconciliation-tables) 
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 ![Principle results](https://github.com/openMetaAnalysis/back-pain-chronic-treatment-with-tramadol/blob/master/forest-plots/Outcome-Primary.png "Principle results")
