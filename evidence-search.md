@@ -16,7 +16,7 @@ chronic AND back pain AND tramadol AND random\*
 * Seed articles: PMIDs [15570651,12809961,10743823,22970658,18557165,24183364,24526247](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=15570651%2012809961%2010743823%2022970658%2018557165%2024183364%2024526247) AND back pain AND tramadol AND random* (31 citations; no additional articles found)
 
 ##ClinicalTrials.gov
-* [Tramadol AND placebo AND chronic AND back pain](https://clinicaltrials.gov/ct2/results?term=Tramadol+AND+placebo+AND+chronic+AND+back+pain+&Search=Search): (6 citations: [NCT000736853](https://clinicaltrials.gov/ct2/show/NCT000736853) and [NCT00347724](https://clinicaltrials.gov/ct2/show/NCT00347724) met inclusion criteria but [NCT00347724](https://clinicaltrials.gov/ct2/show/NCT00347724) did not have posted results)
+* [Tramadol AND placebo AND chronic AND back pain](https://clinicaltrials.gov/ct2/results?term=Tramadol+AND+placebo+AND+chronic+AND+back+pain+&Search=Search): (6 citations: [NCT00347724](https://clinicaltrials.gov/ct2/show/NCT00347724) met inclusion criteria but did not have posted results)
 
 ##Cited reference searching
 
