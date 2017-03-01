@@ -21,5 +21,5 @@ Content is taken from  Chaparro et al. Cochrane Database Syst Rev. 2013 PMID: [2
 
 
 **Footnotes:**
-* Per original trial registration, the primary outcome is "difference in pain intensity as measured on the Visual Analog Scale." However, the publication reports proportion of patients who improved by 30%
+ * Per original trial registration, the primary outcome is "difference in pain intensity as measured on the Visual Analog Scale." However, the publication reports proportion of patients who improved by 30%
 †
