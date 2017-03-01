@@ -2,7 +2,7 @@ Back pain (chronic) treatment with tramadol
 ============================================
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective among registered, randomized, controlled trials. In this subgroup of trials, heterogeneity of results as measured by I2 was '[low](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 17% whereas over trials, the heterogeneity was substantial (90%). This review updates a previously published meta-analysis.(1)
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective among registered, randomized, controlled trials. In this subgroup of trials, heterogeneity of results as measured by I2 was '[low](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 17% whereas across all trials, the heterogeneity was '[substantial](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' (I2 = 90%). This review updates a previously published meta-analysis.(1)
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 
