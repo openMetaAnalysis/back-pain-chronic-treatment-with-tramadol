@@ -1,5 +1,5 @@
 #Risk of bias table
-
+([switch to PICO table](pico-table.md))
 ##Randomized controlled trials
 Based on [Cochrane Handbook](http://handbook.cochrane.org/chapter_8/table_8_5_d_criteria_for_judging_risk_of_bias_in_the_risk_of.htm). Modifications are:
 * Selective reporting bias is high risk if trial protocol is not registered.(PMID [26244868](https://pubmed.gov/26244868))
