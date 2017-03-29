@@ -4,21 +4,19 @@ A living systematic review
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective among registered, randomized, controlled trials. In this subgroup of trials, heterogeneity of results as measured by I2 was '[low](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 17% whereas across all trials, the heterogeneity was '[substantial](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' (I2 = 90%). This review updates a previously published meta-analysis.(1)
 
-**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
+[Keep current with this topic](../master/files/searching/Keep-up.md) (under construction)
 
-Since the meta-analysis shows no benefit, this review does not include a GRADE Profile or Summary of Findings Table.
-
+**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published narrative review.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 * [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
-* [Evidence search](evidence-search.md) for this review
+* [Evidence search](../master/files/searching/evidence-search.md) for this review
 
 **Results:** Details of the studies included are in the:
-* [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md)
-* [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md)
-* [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
-* [Reconciliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconciliation-tables) 
+* [Description of studies (PICO table)](../master/files/study-details/pico-table.md)
+* [Risk of bias assessment](../master/files/study-details/risk-of-bias.md)
+* [Forest plots](../master/files/forest-plots) ([source data](../../tree/master/files/data))
+* [Reconciliation of conclusions and trials included with prior meta-analyses](../master/files/reconcilation-tables)
 
-The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
-![Principle results](https://github.com/openMetaAnalysis/back-pain-chronic-treatment-with-tramadol/blob/master/forest-plots/Outcome-Primary.png "Principle results")
+The forest plot for the primary outcomes are below. Additional [forest plots](../master/files/forest-plots) of secondary analyses may be available. ![Principle results](https://github.com/openMetaAnalysis/back-pain-chronic-treatment-with-tramadol/blob/master/files/forest-plots/Outcome-Primary.png "Principle results")
 
 References:
 ----------------------------------
