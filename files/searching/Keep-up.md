@@ -13,7 +13,7 @@ Receive notifications about possible studies when indexed at PubMed
 Search strategy is **chronic AND back pain AND tramadol AND random\*** (publication types not used as search terms in order to avoid missing trials awaiting indexing by PubMed):
 
 * [Search now and test strategy at PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=chronic+AND+back+pain+AND+tramadol+AND+random*)
-* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=PubMedBackPainTramadol&loc=en_US) or [RSS](http://feeds.feedburner.com/PubmedBackPainTramadol)
+* Receive updates by [email](https://feedburner.google.com/fb/a/mailverify?uri=PubmedBackPainTramadol&amp;loc=en_US) or [RSS](http://feeds.feedburner.com/PubmedBackPainTramadol)
 
 Receive notifications about PubMed citations when added to this review
 -------------------------
