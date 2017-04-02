@@ -47,7 +47,7 @@ outpatient study. Clin Ther. 2003 Apr;25(4):1123-41. PMID: [12809961](http://pub
 This repository is cited by:
 
 1. WikiDoc contributors. Back pain medical therapy. WikiDoc. Feb 27, 2017. Available at: http://www.wikidoc.org/index.php/Back_pain_medical_therapy. Accessed February 27, 2017. 
-
+2. Lee LH, Badgett RG. Reassessment of benefit from tramadol. Available at comments on: http://annals.org/aim/article/2603228/noninvasive-treatments-acute-subacute-chronic-low-back-pain-clinical-practice
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
 [Issues and comments](../../issues?q=is%3Aboth+is%3Aissue)
