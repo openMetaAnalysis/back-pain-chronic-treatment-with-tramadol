@@ -1,4 +1,4 @@
-#PICO Table
+# PICO Table
 ([switch to Risk of Bias table](risk-of-bias.md))
 
 Study        | PMID                                    |Patients/population/problem|Intervention|Comparison|Outcome|
