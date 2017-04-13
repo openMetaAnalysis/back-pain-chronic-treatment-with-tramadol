@@ -17,9 +17,9 @@ Content is based on Chaparro et al. Cochrane Database Syst Rev. 2013 PMID: [2398
 | Uberall      |[22970658](http://pubmed.gov/22970658)|Low risk |Unclear risk |Unclear risk |Unclear risk |High risk |Low risk|Low risk|
 | Vorsanger    |[18557165](http://pubmed.gov/18557165)|Low risk |Unclear risk |Unclear risk |Unclear risk |High risk |Unclear risk as trial not registered|High risk\*|
 | Lee (Ultracet ER Study Group)|[24183364](http://pubmed.gov/24183364)|Low risk |Low risk |Low risk |Unclear risk |High risk |Unclear risk|Low risk†|
-| Schiphorst   |[24526247](http://pubmed.gov/24526247)|Low risk |Low risk |Low risk |Unclear risk |High risk |Low risk|Low risk|
+| Schiphorst   |[24526247](http://pubmed.gov/24526247)|Low risk |Low risk |Low risk |Unclear risk |Unclear risk |Low risk|Low risk|
 
 **Footnotes:**<br>
 \* These trials inluded patients after a run-in phase. This may increase bias (PMID [26277702](https://pubmed.gov/26277702))<br>
-† Per original trial registration, the primary outcome is "difference in pain intensity as measured on the Visual Analog Scale." However, the publication reports proportion of patients who improved by 30%
-
+† 
+‡ 
