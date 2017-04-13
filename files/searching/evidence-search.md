@@ -3,7 +3,7 @@
 * Randomized trials of chronic low back pain that compare tramadol to placebo.
 
 ## Reconciliation tables
-* [Comparison of included studies with prior systematic reviews](../../tree/master/reconciliation-tables/)
+* [Comparison of included studies with prior systematic reviews](/files/reconciliation-tables/Reconciliation%20of%20studies.%20All%20trials.csv)
 
 ## PubMed
 ### Boolean term searching
