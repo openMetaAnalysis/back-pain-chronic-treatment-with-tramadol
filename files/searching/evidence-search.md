@@ -9,7 +9,7 @@
 ### Boolean term searching
 chronic AND back pain AND tramadol AND random\*
 * Retrieves 7 articles in hand (100% sensitivity)
-* 33 articles (search results reviewed 2/27/2016; no additional studies found)
+* [33 articles](https://www.ncbi.nlm.nih.gov/pubmed/?term=chronic%20AND%20back%20pain%20AND%20tramadol%20AND%20random*) (search results reviewed 2/27/2016; no additional studies found)
 
 ### Vector searching ('Related citations' search)
 * Seed articles: PMIDs [15570651,12809961,10743823,22970658,18557165,24183364,24526247](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=15570651%2012809961%2010743823%2022970658%2018557165%2024183364%2024526247) ([2395 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=15570651,12809961,10743823,22970658,18557165,24183364,24526247))
