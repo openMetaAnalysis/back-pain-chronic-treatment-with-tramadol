@@ -9,15 +9,15 @@ Content is based on Chaparro et al. Cochrane Database Syst Rev. 2013 PMID: [2398
 * Selective reporting bias as noted above
 * Newer studies
 
-|  Study        |  PMID | Selection bias:<br/><br/>Random sequence generation<br/>| <br/><br/><br/><br/>Allocation concealment|Performance bias:<br/>Blinding of participants and personnel|Detection bias:<br/><br/>Blinding of outcome assessment<br/>|Attrition bias:<br/><br/>Incomplete outcome data<br/>|Reporting bias:<br/><br/><br/>Selective reporting|Other biases:<br/><br/>E.g. imbalanced compliance , co-interventions, or other<br/>|
-| -----------|---------------------------|:---------|:---------|:--------------|:------------|:----------|:----------|:----------|
-| Peloso       |[15570651](http://pubmed.gov/15570651)|Unclear risk |Unclear risk |Low risk |Unclear risk |High risk |Unclear risk as trial not registered|Low risk|
-| Ruoff  (Protocol CAPSS-112 Study Group) |[12809961](http://pubmed.gov/12809961)|Low risk |Unclear risk |Low risk |Unclear risk |High risk|Unclear risk as trial not registered|Unclear risk|
-| Schnitzer    |[10743823](http://pubmed.gov/10743823)|Low risk |Unclear risk |Low risk |Unclear risk |High risk |Unclear risk as trial not registered|High risk\*|
-| Uberall      |[22970658](http://pubmed.gov/22970658)|Low risk |Unclear risk |Unclear risk |Unclear risk |High risk |Low risk|Low risk|
-| Vorsanger    |[18557165](http://pubmed.gov/18557165)|Low risk |Unclear risk |Unclear risk |Unclear risk |High risk |Unclear risk as trial not registered|High risk\*|
-| Lee (Ultracet ER Study Group)|[24183364](http://pubmed.gov/24183364)|Low risk |Low risk |Low risk |Unclear risk |High risk |Unclear risk|Low risk†|
-| Schiphorst   |[24526247](http://pubmed.gov/24526247)|Low risk |Low risk |Low risk |Unclear risk |Unclear risk |Low risk|Low risk|
+|  Study        | Selection bias:<br/><br/>Random sequence generation<br/>| <br/><br/><br/><br/>Allocation concealment|Performance bias:<br/>Blinding of participants and personnel|Detection bias:<br/><br/>Blinding of outcome assessment<br/>|Attrition bias:<br/><br/>Incomplete outcome data<br/>|Reporting bias:<br/><br/><br/>Selective reporting|Other biases:<br/><br/>E.g. imbalanced compliance , co-interventions, or other<br/>|
+| -------------------------------------|:---------|:---------|:--------------|:------------|:----------|:----------|:----------|
+| Peloso<br>2004<br>PMID: [15570651](http://pubmed.gov/15570651)|Unclear risk |Unclear risk |Low risk |Unclear risk |High risk |Unclear risk as trial not registered|Low risk|
+| Ruoff  (Protocol CAPSS-112 Study Group)<br>2003<br>[12809961](http://pubmed.gov/12809961)|Low risk |Unclear risk |Low risk |Unclear risk |High risk|Unclear risk as trial not registered|Unclear risk|
+| Schnitzer<br>2000<br>PMID: [10743823](http://pubmed.gov/10743823)|Low risk |Unclear risk |Low risk |Unclear risk |High risk |Unclear risk as trial not registered|High risk\*|
+| Uberall<br>2012<br>PMID: [22970658](http://pubmed.gov/22970658)|Low risk |Unclear risk |Unclear risk |Unclear risk |High risk |Low risk|Low risk|
+| Vorsanger<br>2008<br>PMID: [18557165](http://pubmed.gov/18557165)|Low risk |Unclear risk |Unclear risk |Unclear risk |High risk |Unclear risk as trial not registered|High risk\*|
+| Lee (Ultracet ER Study Group)<br>2013<br>PMID: [24183364](http://pubmed.gov/24183364)|Low risk |Low risk |Low risk |Unclear risk |High risk |Unclear risk|Low risk†|
+| Schiphorst<br>2014<br>PMID: [24526247](http://pubmed.gov/24526247)|Low risk |Low risk |Low risk |Unclear risk |Unclear risk |Low risk|Low risk|
 
 **Footnotes:**<br>
 \* These trials inluded patients after a run-in phase. This may increase bias (PMID [26277702](https://pubmed.gov/26277702))<br>
