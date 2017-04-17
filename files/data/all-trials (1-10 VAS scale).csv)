@@ -6,3 +6,8 @@ Vorsanger, 2008,18557165,3.05(2.3),127,4.03(2.52),126,Trial not prospectively re
 Uberall (SUPREME),   2012,22970658, 3.9(2),107, 4.1(4.1),110,Trial registered,4,
 Lee (Ultracet ER Study Group),2013,24183364,1.012(0.819),83,0.792(0.966),87,Trial registered,4,
 Schiphorst,2014,24526247,5.1(2.81),24,4.5(2.96),25,Trial registered,2,
+,,,,,,,,,
+,,,,,,,,To make forest plot:,
+,,,,,,,,Click 'Raw' view of this file,
+,,,,,,,,Copy rows of data without column names,
+,,,,,,,,Paste into one of the editors at https://openmetaanalysis.ocpu.io,
