@@ -3,7 +3,7 @@
 
 Study        | PMID                                    |Patients/population/problem|Intervention|Comparison|Outcome|
 ------------ | --------------------------------------|---------------------------|------------|----------|-------|
-| Lee (Ultracet ER Study Group)<br>2013 | [24183364](http://pubmed.gov/24183364) |Adults with chronic back pain| Up to tramadol 300 mg and acetaminophen 2600 mg per day for one month |Placebo|Pain (VAS)|
+| Lee (Ultracet ER Study Group)<br>2013 | [24183364](http://pubmed.gov/24183364)<br>[NCT01112267](http://clinicaltrials.gov/show/NCT01112267) |Adults with chronic back pain| Up to tramadol 300 mg and acetaminophen 2600 mg per day for one month |Placebo|Pain (VAS)|
 | Peloso<br>2004 | [15570651](http://pubmed.gov/15570651) |Adults with chronic back pain |  Up to tramadol 300 mg and acetaminophen 2600 mg per day for three months   | Placebo | Pain (VAS)|
 | Ruoff  (Protocol CAPSS-112 Study Group)<br>2003| [12809961](http://pubmed.gov/12809961) |Adults with chronic back pain                          | Up to tramadol 300 mg and acetaminophen 2600 mg per day for three months | Placebo |Pain (VAS)|
 | Schiphorst<br>2014 | [24526247](http://pubmed.gov/24526247)<br>[EudraCT 2008-004227-39](https://www.clinicaltrialsregister.eu/ctr-search/trial/2008-007225-39/BE) |Adults with chronic back pain| Tramadol 225 mg and acetaminophen 1,950 mg per day for two weeks  |Placebo|Pain (VAS)|
