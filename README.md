@@ -16,7 +16,7 @@ A living systematic review
 * [Forest plots](../master/files/forest-plots) ([source data](../../tree/master/files/data))
 * [Reconciliation of conclusions and trials included with prior meta-analyses](../master/files/reconciliation-tables)
 
-The forest plot for the primary outcomes are below. Additional [forest plots](../tree/master/files/forest-plots) of secondary analyses may be available. ![Principle results](https://github.com/openMetaAnalysis/back-pain-chronic-treatment-with-tramadol/blob/master/files/forest-plots/Outcome-Primary.png "Principle results")
+The forest plot for the primary outcomes are below. Additional [forest plots](../master/files/forest-plots) of secondary analyses may be available. ![Principle results](../master/files/forest-plots/Outcome-Primary.png "Principle results")
 
 References:
 ----------------------------------
