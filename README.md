@@ -43,13 +43,14 @@ outpatient study. Clin Ther. 2003 Apr;25(4):1123-41. PMID: [12809961](http://pub
 
 #### Trials excluded - selected list of important trials
 1. Tetsunaga T, Tetsunaga T, Tanaka M, Ozaki T. Efficacy of tramadol-acetaminophen tablets in low back pain patients with depression. J Orthop Sci. 2015 Mar;20(2):281-6. doi: 10.1007/s00776-014-0674-4. PMID: [25644033](http://pubmed.gov/25644033) *Excluded as used active comparator rather than placebo*
-2. O'Donnell JB, Ekman EF, Spalding WM, Bhadra P, McCabe D, Berger MF. The effectiveness of a weak opioid medication versus a cyclo-oxygenase-2 (COX-2) selective non-steroidal anti-inflammatory drug in treating flare-up of chronic low-back pain: results from two randomized, double-blind, 6-week studies. J Int Med Res. 2009 Nov-Dec;37(6):1789-802. PubMed PMID: [20146877](http://pubmed.gov/20146877) *Excluded as used active comparator rather than placebo*
+2. O'Donnell JB, Ekman EF, Spalding WM, Bhadra P, McCabe D, Berger MF. The effectiveness of a weak opioid medication versus a cyclo-oxygenase-2 (COX-2) selective non-steroidal anti-inflammatory drug in treating flare-up of chronic low-back pain: results from two randomized, double-blind, 6-week studies. J Int Med Res. 2009 Nov-Dec;37(6):1789-802. PMID: [20146877](http://pubmed.gov/20146877) *Excluded as used active comparator rather than placebo*
 
 #### Cited by
 This repository is cited by:
 
 1. WikiDoc contributors. Back pain medical therapy. WikiDoc. Feb 27, 2017. Available at: http://www.wikidoc.org/index.php/Back_pain_medical_therapy. Accessed February 27, 2017. 
-2. Lee LH, Badgett RG. Reassessment of benefit from tramadol. Available at comments on: http://annals.org/aim/article/2603228/noninvasive-treatments-acute-subacute-chronic-low-back-pain-clinical-practice
+2. Le LH, Badgett RG. Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain. Ann Intern Med. 2017 Dec 5;167(11):834. doi: 10.7326/L17-0472. PubMed 
+PMID: [29204613](http://pubmed.gov/29204613).
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
 [Issues and comments](../../issues?q=is%3Aboth+is%3Aissue)
