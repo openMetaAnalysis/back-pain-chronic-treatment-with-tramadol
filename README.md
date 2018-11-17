@@ -29,7 +29,7 @@ References:
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-1. Lee JH, Lee CS; Ultracet ER Study Group.. A randomized, double-blind, placebo-controlled, parallel-group study to evaluate the efficacy and safety of the extended-release tramadol hydrochloride/acetaminophen fixed-dose combination tablet for the treatment of chronic low back pain. Clin Ther. 2013 Nov;35(11):1830-40. doi: 10.1016/j.clinthera.2013.09.017. PMID: [24183364](http://pubmed.gov/24183364).
+1. Lee JH, Lee CS; Ultracet ER Study Group.. A randomized, double-blind, placebo-controlled, parallel-group study to evaluate the efficacy and safety of the extended-release tramadol hydrochloride/acetaminophen fixed-dose combination tablet for the treatment of chronic low back pain. Clin Ther. 2013 Nov;35(11):1830-40. doi: [10.1016/j.clinthera.2013.09.017](http://doi.org/10.1016/j.clinthera.2013.09.017). PMID: [24183364](http://pubmed.gov/24183364) [NCT01112267](http://clinicaltrials.gov/show/NCT01112267).
 2. Schiphorst Preuper HR, Geertzen JH, van Wijhe M, Boonstra AM, Molmans BH, Dijkstra PU, Reneman MF. Do analgesics improve functioning in patients with chronic low back pain? An explorative triple-blinded RCT. Eur Spine J. 2014 Apr;23(4):800-6. doi: 10.1007/s00586-014-3229-7. PMID: [24526247](http://pubmed.gov/24526247)
 
 #### Trial(s) included in the review above
