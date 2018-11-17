@@ -6,6 +6,8 @@ Short url: http://openmetaanalysis.github.io/tramadol
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective among registered, randomized, controlled trials. In this subgroup of trials, heterogeneity of results as measured by I2 was '[low](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 17% whereas across all trials, the heterogeneity was '[substantial](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' (I2 = 90%). This review updates a previously published meta-analysis.(1)
 
+The evidence is weakened by the trial of Lee being improperly registered. The trial was registered after study was completion and the primary outcome stated in the registation did not match the primary outcome in the publication. The numeric resuls and the significance of the original primary outcome was not stated and the results of this outcome had to be inferred from a figure in the paper.
+
 [Keep current with this topic](../../master/files/searching/Keep-up.md)
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published narrative review.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
